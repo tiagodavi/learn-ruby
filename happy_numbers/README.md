@@ -2,4 +2,4 @@
 
 ###My first work with spec ruby gem
 
-[back &larr;]('../') 
+[back &larr;]('https://github.com/hobbieo/learn-ruby') 
